@@ -52,23 +52,23 @@ Me interesa seguir creciendo en el área de desarrollo de software y fortalecer 
 
 ## 🚀 Proyectos
 
-### [Nombre del proyecto 1]
+### Alke Wallet
 
-[Breve descripción de qué hace el proyecto y qué problema resuelve.]
+El objetivo fue desarrollar una aplicación web funcional que permita a los usuarios crear y gestionar sus cuentas digitales, realizar transacciones, consultar saldos y generar reportes, aplicando ORM de Django, manejo de migraciones y la integración de aplicaciones preinstaladas para la autenticación, administración y gestión de archivos estáticos.
 
-**Tecnologías:** [Tecnología 1], [Tecnología 2], [Tecnología 3]
+**Tecnologías:** Python, Django, HTML5, Bootstrap, SQLite
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/proyecto-1)
+🔗 [Ver repositorio](https://github.com/chri570/Proyectos-Bootcamp-FullStack-Python-Trainee/tree/main/Alke_Wallet_Modulo-7)
 
 ---
 
-### [Nombre del proyecto 2]
+### Sistema de gestión de proyectos
 
-[Breve descripción del proyecto.]
+El objetivo fue el desarrollo de una aplicación web en Django que permita a los usuarios registrarse, autenticarse, gestionar proyectos y tareas, y visualizar sus datos de manera dinámica, garantizando una navegación fluida, validaciones de datos correctas y seguridad en el acceso a la información.
 
-**Tecnologías:** [Tecnología 1], [Tecnología 2]
+**Tecnologías:** Python, Django, HTML5, Bootstrap, MySQL
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/proyecto-2)
+🔗 [Ver repositorio](https://github.com/chri570/Proyectos-Bootcamp-FullStack-Python-Trainee/tree/main/SistemaProyectos)
 
 ---
 
