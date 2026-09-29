@@ -84,4 +84,3 @@ El objetivo fue diseñar e implementar un sistema de gestión basado en Python q
 
 * LinkedIn: www.linkedin.com/in/christophermansilla-aravena-91b0b2263
 * Email: christopher.mansillaa@gmail.com
-* Portafolio: [si tienes uno]
