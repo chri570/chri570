@@ -72,13 +72,13 @@ El objetivo fue el desarrollo de una aplicación web en Django que permita a los
 
 ---
 
-### [Nombre del proyecto 3]
+### Agenda telefónica
 
-[Breve descripción del proyecto.]
+El objetivo fue diseñar e implementar un sistema de gestión basado en Python que permita manejar información de manera estructurada, utilizando condicionales, bucles, funciones, estructuras de datos y módulos para optimizar el procesamiento de datos y la toma de decisiones.
 
-**Tecnologías:** [Tecnología 1], [Tecnología 2]
+**Tecnologías:** Python
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/proyecto-3)
+🔗 [Ver repositorio](https://github.com/chri570/Proyectos-Bootcamp-FullStack-Python-Trainee/tree/main/AgendaTelefonica)
 
 ## 📫 Contacto
 
