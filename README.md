@@ -80,6 +80,23 @@ El objetivo fue diseñar e implementar un sistema de gestión basado en Python q
 
 🔗 [Ver repositorio](https://github.com/chri570/Proyectos-Bootcamp-FullStack-Python-Trainee/tree/main/AgendaTelefonica)
 
+## 🔎 Caso de estudio
+* Proyecto seleccionado: Alke Wallet.
+* Desafío principal que implicaba: El principal desafío era Django, específicamente utilizar views genéricas para aplicar CRUD y las configuraciones previas que se hacen en un proyecto. Por último, utilizar todo lo aprendido de módulos de anteriores.
+* Solución propuesta: Un sistema web que requiere de inicio de sesión para acceder al contenido. Una base de datos en SQLite compuesta por las tablas Cliente, Cuenta y Transaccion creadas desde el ORM de Django. La aplicación de acciones CRUD procesado por views genéricas.
+* Herramienta técnica utilizada para el desarrollo: Pycharm, VSCode.
+* Principales aprendizajes alcanzados: Crear sistema robusto en Python y que todavía pueden agregarse otras funcionalidades.
+
+**Métricas de impacto logradas (por ejemplo: tiempo de resolución, mejoras funcionales, eficiencia, cobertura, etc.)**
+- Implementación de operaciones CRUD.
+- Información centralizada a través de la aplicación web.
+- Correctas relaciones entre modelos del esquema de base de datos.
+- Acceso restringido a la aplicación.
+* Habilidades técnicas aplicadas: Python, Django, HTML5, Bootstrap, SQL, POO, CRUD
+* Razón por la que sume el proyecto al portafolio: La elección del proyecto se debe a que representa todo lo aprendido durante mi formación como trainee en desarrollo fullstack.
+
+
+
 ## 📫 Contacto
 
 * LinkedIn: www.linkedin.com/in/christophermansilla-aravena-91b0b2263
